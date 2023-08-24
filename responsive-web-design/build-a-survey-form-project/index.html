@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <title>Goblin Mode?</title>
+  </head>
+  <body>
+    <h1 id="title">Michael's Goblin Mode Survey Form</h1>
+    <p id="description">Your input will help Michael decide whether he should go <a href="https://www.urbandictionary.com/define.php?term=Goblin+mode">goblin mode</a>.</p>
+    <form id="survey-form">
+      <label id="name-label" for="name" >What should Michael's goblin name be?</label>
+      <input id="name" type="text" required placeholder="Moblin" />
+      <label id="email-label" for="email" >What should Michael's Gmail (Goblin-Mail) address be?</label>
+      <input id="email" type="email" required placeholder="moblin@gmail.com" />
+      <label id="number-label" for="number" >What level of goblin mode should Michael go?</label>
+      <input id="number" type="number" min="0" max="100" placeholder="100" />
+
+      <label for="dropdown">What goblin should Michael base his goblin personality on?</label>
+      <select id="dropdown">
+        <option>Green Goblin</option>
+        <option>Christmas Goblin</option>
+      </select>
+
+      <p>What height should Michael be as a goblin?</p>
+      <label class="inline"><input type="radio" name="height" value="tall" /> Tall</label>
+      <label class="inline"><input type="radio" name="height" value="small" />Small</label>
+      <br>
+
+      <p>What goblin sounds should Michael be able to produce?</p>
+      <label class="inline"><input type="checkbox" value="nyahh-checkbox" /> Nyahh!</label>
+      <label class="inline"><input type="checkbox" value="goooahh-checkbox" /> Goooahh!</label>
+      <label class="inline"><input type="checkbox" value="hmmmmmmm-checkbox" /> hmmmmmmm...?</label>
+      <br>
+      <label class="inline"><input type="checkbox" value="mlady-checkbox" /> M'lady</label>
+      <label class="inline"><input type="checkbox" value="coward-checkbox" /> Coward!</label>
+
+      <p>Please give any other thoughts or feedback you have about Michael's plans to go goblin mode.</p>
+      <textarea placeholder="You should be a frog instead" ></textarea>
+
+      <button id="submit" type="submit">Submit</button>
+    </form>
+  </body>
+</html>
