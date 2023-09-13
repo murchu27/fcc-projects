@@ -1,0 +1,15 @@
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/bin/Debug/net7.0/5_while
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/bin/Debug/net7.0/5_while.deps.json
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/bin/Debug/net7.0/5_while.runtimeconfig.json
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/bin/Debug/net7.0/5_while.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/bin/Debug/net7.0/5_while.pdb
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/5_while.csproj.AssemblyReference.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/5_while.GeneratedMSBuildEditorConfig.editorconfig
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/5_while.AssemblyInfoInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/5_while.AssemblyInfo.cs
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/5_while.csproj.CoreCompileInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/5_while.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/refint/5_while.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/5_while.pdb
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/5_while.genruntimeconfig.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/5_while/obj/Debug/net7.0/ref/5_while.dll

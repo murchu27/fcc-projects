@@ -1,0 +1,15 @@
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/bin/Debug/net7.0/2_scope
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/bin/Debug/net7.0/2_scope.deps.json
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/bin/Debug/net7.0/2_scope.runtimeconfig.json
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/bin/Debug/net7.0/2_scope.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/bin/Debug/net7.0/2_scope.pdb
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/2_scope.csproj.AssemblyReference.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/2_scope.GeneratedMSBuildEditorConfig.editorconfig
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/2_scope.AssemblyInfoInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/2_scope.AssemblyInfo.cs
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/2_scope.csproj.CoreCompileInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/2_scope.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/refint/2_scope.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/2_scope.pdb
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/2_scope.genruntimeconfig.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/2_scope/obj/Debug/net7.0/ref/2_scope.dll

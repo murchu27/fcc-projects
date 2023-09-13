@@ -1,0 +1,15 @@
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/bin/Debug/net7.0/3_switchcase
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/bin/Debug/net7.0/3_switchcase.deps.json
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/bin/Debug/net7.0/3_switchcase.runtimeconfig.json
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/bin/Debug/net7.0/3_switchcase.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/bin/Debug/net7.0/3_switchcase.pdb
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/3_switchcase.csproj.AssemblyReference.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/3_switchcase.GeneratedMSBuildEditorConfig.editorconfig
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/3_switchcase.AssemblyInfoInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/3_switchcase.AssemblyInfo.cs
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/3_switchcase.csproj.CoreCompileInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/3_switchcase.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/refint/3_switchcase.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/3_switchcase.pdb
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/3_switchcase.genruntimeconfig.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/3_switchcase/obj/Debug/net7.0/ref/3_switchcase.dll
