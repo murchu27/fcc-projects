@@ -1,0 +1,15 @@
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/bin/Debug/net7.0/6_branching
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/bin/Debug/net7.0/6_branching.deps.json
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/bin/Debug/net7.0/6_branching.runtimeconfig.json
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/bin/Debug/net7.0/6_branching.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/bin/Debug/net7.0/6_branching.pdb
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/6_branching.csproj.AssemblyReference.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/6_branching.GeneratedMSBuildEditorConfig.editorconfig
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/6_branching.AssemblyInfoInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/6_branching.AssemblyInfo.cs
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/6_branching.csproj.CoreCompileInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/6_branching.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/refint/6_branching.dll
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/6_branching.pdb
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/6_branching.genruntimeconfig.cache
+/home/murchu27/repos/fcc-projects/csharp/3_logic/6_branching/obj/Debug/net7.0/ref/6_branching.dll
