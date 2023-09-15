@@ -1,0 +1,15 @@
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/bin/Debug/net7.0/1_datatypes
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/bin/Debug/net7.0/1_datatypes.deps.json
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/bin/Debug/net7.0/1_datatypes.runtimeconfig.json
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/bin/Debug/net7.0/1_datatypes.dll
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/bin/Debug/net7.0/1_datatypes.pdb
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/1_datatypes.csproj.AssemblyReference.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/1_datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/1_datatypes.AssemblyInfoInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/1_datatypes.AssemblyInfo.cs
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/1_datatypes.csproj.CoreCompileInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/1_datatypes.dll
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/refint/1_datatypes.dll
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/1_datatypes.pdb
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/1_datatypes.genruntimeconfig.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/1_datatypes/obj/Debug/net7.0/ref/1_datatypes.dll
