@@ -22,6 +22,6 @@
 
 
 // Unit 5
-// reference type variables
-int[] data = new int[3];
-string myString = "Hello, World!";
+// // reference type variables
+// int[] data = new int[3];
+// string myString = "Hello, World!";
