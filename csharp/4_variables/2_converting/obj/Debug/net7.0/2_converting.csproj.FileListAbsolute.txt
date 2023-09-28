@@ -1,0 +1,15 @@
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/2_converting.csproj.AssemblyReference.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/2_converting.GeneratedMSBuildEditorConfig.editorconfig
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/2_converting.AssemblyInfoInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/2_converting.AssemblyInfo.cs
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/2_converting.csproj.CoreCompileInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/bin/Debug/net7.0/2_converting
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/bin/Debug/net7.0/2_converting.deps.json
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/bin/Debug/net7.0/2_converting.runtimeconfig.json
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/bin/Debug/net7.0/2_converting.dll
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/bin/Debug/net7.0/2_converting.pdb
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/2_converting.dll
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/refint/2_converting.dll
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/2_converting.pdb
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/2_converting.genruntimeconfig.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/2_converting/obj/Debug/net7.0/ref/2_converting.dll
