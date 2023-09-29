@@ -1,0 +1,15 @@
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/bin/Debug/net7.0/3_array_helpers
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/bin/Debug/net7.0/3_array_helpers.deps.json
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/bin/Debug/net7.0/3_array_helpers.runtimeconfig.json
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/bin/Debug/net7.0/3_array_helpers.dll
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/bin/Debug/net7.0/3_array_helpers.pdb
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/3_array_helpers.csproj.AssemblyReference.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/3_array_helpers.GeneratedMSBuildEditorConfig.editorconfig
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/3_array_helpers.AssemblyInfoInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/3_array_helpers.AssemblyInfo.cs
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/3_array_helpers.csproj.CoreCompileInputs.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/3_array_helpers.dll
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/refint/3_array_helpers.dll
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/3_array_helpers.pdb
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/3_array_helpers.genruntimeconfig.cache
+/home/murchu27/repos/fcc-projects/csharp/4_variables/3_array_helpers/obj/Debug/net7.0/ref/3_array_helpers.dll
